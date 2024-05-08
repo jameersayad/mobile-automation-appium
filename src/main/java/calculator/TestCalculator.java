@@ -15,7 +15,7 @@ public class TestCalculator {
 		DesiredCapabilities capabilities = new DesiredCapabilities();
 		
 		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Galaxy M31");
-		capabilities.setCapability(MobileCapabilityType.UDID, "RZ8R81HNARR");
+		capabilities.setCapability(MobileCapabilityType.UDID, "UDID");
 		
 		capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
 		capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "12");		
